@@ -47,4 +47,3 @@ export default class Column {
         this.elements.items.appendChild(newItem.elements.root);
     }
 }
-
